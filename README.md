@@ -10,7 +10,7 @@ A small script mod allowing you to change the FOV of NFS Underground 2.
 
 ***DISTRIBUTIONS***
 
-You are allowed to review the code and make changes to it if you want. However, you are not allowed to upload this anywhere without consent as you'll be reported. This is the first but small script mod written by myself, so respect it.
+You are allowed to review the code and make changes to it if you want.
 
 >[!NOTE]
 >This script mod will be updated in the future and more functions and features will be added.
